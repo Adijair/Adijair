@@ -1,6 +1,7 @@
 ### Ola
 
 🔭Atualmente estou trabalhando num projeto para hospital
+<p>
 🌱Atualmente estou aprendendo python
 
 <div style="display: inline_block"><br>
