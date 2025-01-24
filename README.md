@@ -1,6 +1,6 @@
 ### Opa, me chamo Adijair
 
-🔭Atualmente estou trabalhando na fabrica de software unipe
+🔭Atualmente estou me desemvolvendo em banco de dados
 <p>
 🌱Atualmente estou aprendendo java e JavaScript
 <p>
