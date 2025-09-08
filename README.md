@@ -2,10 +2,10 @@
 
 🔭Atualmente estou me desemvolvendo em banco de dados
 <p>
-🌱Atualmente estou aprendendo java e JavaScript
+🌱Atualmente estou aprendendo (..)
 <p>
   Habilidades:
-  python, html e php
+  Python, java, SQL, html e php
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="adijair-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
