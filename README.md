@@ -22,8 +22,10 @@
 
 ## 📈 Estatísticas do GitHub  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Adijair&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Adijair&layout=compact&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adijair&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adijair&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
 
 ---
 
