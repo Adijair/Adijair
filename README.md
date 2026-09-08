@@ -36,8 +36,8 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adijair&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adijair&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Adijair&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adijair&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Langs"/>
 </p>
 
 ---
