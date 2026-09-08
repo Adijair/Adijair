@@ -24,12 +24,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- **[YourCarMetrics](https://github.com/Adijair/YourCarMetrics)**: Aplicação web para rastreamento de métricas financeiras e de manutenção de veículos, construída com **Django** e **Tailwind CSS**.
-- **[AG locações](https://github.com/Adijair/AG-locacoes)**: Sistema de aluguel de veículos com autenticação de usuários, gestão de frota e validação de reservas usando **Django** e **Bootstrap**.
-- **[Automação de WhatsApp](https://github.com/Adijair/whatsapp-bot)**: Script em **Node.js** utilizando `whatsapp-web.js` para fluxos de resposta automatizada e transbordo para atendimento humano.
-- **[Experimentos em Visão Computacional](https://github.com/Adijair/visao-computacional)**: Pesquisa e desenvolvimento utilizando **YOLO, OpenCV, EasyOCR e MediaPipe** (ex: Rastreamento facial e Reconhecimento Automático de Placas).
 
 ---
 
